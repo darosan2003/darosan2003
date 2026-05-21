@@ -75,7 +75,6 @@ current_objectives = {
         "Web Application Pentesting",
         "Privilege Escalation",
         "Red Team Operations",
-        "Malware Analysis",
         "Custom Exploit Development"
     ]
 }
