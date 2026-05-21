@@ -12,7 +12,7 @@
 ┌──(nani@pwnbox)-[~/recon]
 └─$ id
 
-uid=1000(daniel) groups=1000(pentester,redteam,oscp-student)
+uid=1000(nani) groups=1000(pentester,redteam,oscp-student)
 
 Ethical Hacker & Red Team Enthusiast
 Backend Developer focused on Python & Flask
@@ -50,8 +50,6 @@ Passionate about Offensive Security, CTFs and Exploit Development
 <img src="https://img.shields.io/badge/John_The_Ripper-0d1117?style=for-the-badge&logo=gnuprivacyguard&logoColor=ff0000" />
 
 <img src="https://img.shields.io/badge/Netcat-0d1117?style=for-the-badge&logo=gnuprivacyguard&logoColor=00ff41" />
-
-<img src="https://img.shields.io/badge/Chisel-0d1117?style=for-the-badge&logo=cloudflare&logoColor=f38020" />
 
 </div>
 
